@@ -4,13 +4,13 @@
 
 ---
 
-# Integrantes do Grupo 👥
+## Integrantes do Grupo 👥
 **Turma 02P**
 - Klaus Gustavo Castelein Ricieri Moura
 - Bruno Matheus Garutti Pinto
 ---
 
-# Funcionalidades 🛠️
+## Funcionalidades 🛠️
 
 O programa apresenta um menu interativo com as seguintes opções:
 
